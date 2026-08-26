@@ -1,5 +1,4 @@
-
-<img src="https://avatars.githubusercontent.com/u/317147604?s=64&amp;v=4" alt="@FWMium"/>
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/100cd867-7f51-4fc6-9482-6afdb3cce266" />
 
 A small, but dedicated team to finding exploits within many operation systems, mainly ChromeOS, 
 
